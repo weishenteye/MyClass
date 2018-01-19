@@ -1,0 +1,2 @@
+# MyClass
+Coursera testing purpose
